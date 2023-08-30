@@ -1,0 +1,30 @@
+body{
+    margin:20px;
+    font-family: Papyrus;
+    border-radius:2px; -->!undone-->
+}
+
+.image{
+    width:150px;
+}
+
+.card{
+    width:400px;
+    padding:20px;
+    display:flex;
+    justify-content:space-around;
+    <!--in short we can use as the following-->
+    <!--margin-left:auto;-->
+    <!--margin-right:auto;-->
+    margin:0px auto;
+
+    color:#2b2839 ;
+    background: #006ba6;
+    border-bottom: 10px solid #d8cefe;
+
+}
+
+
+.center{
+    text-align:center;
+}
